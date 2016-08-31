@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">CoffeeSocialLife</string>
+    <string name="title">Vida Social del Café</string>
+    <string name="title_activity_coffe_origin">Origen del Café</string>
+    <string name="title_activity_coffe_house">Coffe House</string>
+    <string name="title_activity_burocracy">Ilustración</string>
+    <string name="title_activity_present">Actualidad</string>
+    <string name="title_activity_evolution">Evolución</string>
+    <string name="title_activity_information">Information</string>
+    <string name="coffepotct17">Antique William III Miniature Silver Coffee Pot
+c. \n 1695 Inglaterra \n
+Fuente: http://www.onlinegalleries.com/art-and-antiques/detail/antique-william-iii-miniature-silver-coffee-pot/214438</string>
+    <string name="coffepotct18">George II Silver Coffee Pot \n 1742 London \n Fuente: http://www.onlinegalleries.com/art-and-antiques/detail/george-ii-silver-coffee-pot/146205</string>
+    <string name="coffepotct19">Fine Coffe Pot in Sheffield \n Inglaterra Siglo XIX tardío \n Fuente: https://www.the-saleroom.com/en-gb/auction-catalogues/casa-daste-babuino/catalogue-id-srbab10027/lot-0c8fddb9-3186-4e43-b68c-a56300dad418</string>
+    <string name="coffepotct20">
+        Georgian style silver plated pewter coffee and tea set \n England  1st half of 20th century\nCoffee pot, teapot, sugar bowl, milk jug.\n
+Fuente: http://auction.catawiki.com/kavels/6552903-georgian-style-silver-plated-pewter-coffee-and-tea-set-england-1st-half-of-20th-century-coffee-pot-teapot-sugar-bowl-milk-jug
+    </string>
+    <string name="coffepotct21">
+        Cafetera tradicional \n Taurus Italica 3 Cuerpo y base de aluminio\n
+        Fuente: http://tiendas.mediamarkt.es/p/cafetera-tradicional-taurus-italica-3-1256838
+    </string>
+    <string name="complete_coffehouse_origin">
+    El café marca un cambio en la manera de consumir. Al llegar el café a Europa era consumido principalmente por la alta sociedad ya que era considerado como un bien exótico el cual solo dichas clase tenían derecho a consumir. El café hace parte de lo que se llama “consumer revolution”. Los “Coffee Houses” eran lugares en los cuales la gente se reunía a disfrutar de esta bebida exótica y a conversar. El café al reemplazar bebidas alcohólicas permitió que los encuentros en los “Coffee Houses” dieran lugar a conversaciones coherentes y centradas dando paso a las transformaciones políticas del siglo XVIII. Los Coffee Houses eran lugares en los cuáles por unos momentos se borraban la líneas que separaban a las clases sociales. Este factor ayudó a desarrollar una nueva organización social más incluyente.
+        \n\nLos Coffee Houses comenzaron construyéndose en casas donde los vecinos se reunían a conversar de temas políticos, culturales y sociales. Estos lugares se fueron transformando hasta llegar a ser una especie de centros de cultura y constitución del conocimiento.
+</string>
+    <string name="complete_present">
+        El “Informe de mercado de Café: Febrero 2016” de la Organización Internacional del Café  dice que el consumo de café en el año 2015 fue de 152,1 millones de bolsas de de 60 kg de café. Un dato interesante es que de estos 152 millones de bolsas, más de 100 son consumidas por países importadores de café. En 2015 Colombia fue el mayor productor de variedades suaves de café por encima de Brasil. En cuanto a café robusto fue África quien ocupó el primer lugar.
+    </string>
+    <string name="title_activity_health">Salud</string>
+    <string name="complete_health">
+        Investigaciones de Harvard T.H Chan School of Public Health revelan que el consumo moderado de café tiene efectos positivos en la salud. El café reduce el riesgo de padecer enfermedades entre las cuáles se encuentran:\n
+Parkinson, entre otras enfermedades que afectan el sistema nervioso\n
+Diabetes tipo 2, ya que reduce la resistencia a la insulina\n
+Enfermedades cardiovasculares
+    </string>
+    <string name="complete_coffe_origin">
+    La tradición fue llevada a Inglaterra desde Turquía, a pesar de que el sabor no era precisamente de lo más llamativo, fue acogido más como una práctica que por su sabor, la introducción del café no fue una tarea sencilla, fuera de esto el siglo XVII se destacó por el gasto excesivo en elementos de lujo importados. Para entender la introducción  del café es necesario entender la ‘Revolución del consumo’, esto llevo a cambios en los hábitos de consumo y de preferencias en cuanto a nuevas comodidades que aparecían en esta época.
+
+	\nEste éxito se asocia generalmente a 4 razones específicas : la maximización de ingresos por la economía neoclásica, teorías de emulación social, explicaciones funcionalistas e impulsos culturales. El argumento más fuerte explica que las clases altas empezaron a tomar café como una demostración social, dado el sabor y lo exótico del café, y como un reemplazo a las bebidas alcohólicas, debido al precio accesible y a las ganas de emular esta clase de prácticas esta tradición se fue regando entre las masas.
+
+    </string>
+    <string name="complete_ilustration">
+        La Ilustración marcó un cambio en la ideas, políticas sociales y culturales del siglo XVIII. Es un cambio que se caracterizó por la idea de mejorar la calidad de vida y la idea de progreso. Los avances en la ciencia crearon un espiritu de esperanza de mejora en la sociedad.Es un periodo que está influenciado por los progresos científicos.  El nacimiento de los Coffee Houses tiene una relación estrecha con la Ilustración ya que estos pueden considerarse los lugares en los cuales esta ideología puso sus raíces.
+
+Los Coffee Houses se presentaron como lugares en los cuales la gente iba a informarse, leyendo el periódico o conversando con más personas. La popularización del café logró a su vez la popularización de los Coffee Houses. El hecho de que el consumo de café se volviera en masa, permitió que los Coffee Houses fueran lugares en los cuales personas de todas las clases pudieran tener conversaciones. Esta idea de que los Coffee Houses fueran lugares en los cuales las diferentes clases sociales pudieran mezclarse, para hablar de temas entre los cuales está, la política, la sociedad y la cultura fue algo totalmente revolucionario para la sociedad como buscó serlo la Ilustración.
+
+El reemplazo de las bebidas alcohólicas por café y de tabernas por Coffee Houses fue muy favorable para la Ilustración. El café al no producir  los mismos efectos del alcohol abría la posibilidad de tener conversaciones fundamentadas en la razón, característica primordial de la Ilustración.
+
+    </string>
+</resources>
